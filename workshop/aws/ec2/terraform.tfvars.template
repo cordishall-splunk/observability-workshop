@@ -19,3 +19,4 @@ otel_demo = false
 
 # Advanced
 wsversion = "4.97"
+user_data_tpl = "userdata.yaml"
